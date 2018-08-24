@@ -1,0 +1,27 @@
+{
+  "name": "etc-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luncher/etc-wallet.git"
+  },
+  "keywords": [],
+  "author": "Luncher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luncher/etc-wallet/issues"
+  },
+  "homepage": "https://github.com/Luncher/etc-wallet#readme",
+  "dependencies": {
+    "bignumber.js": "^7.2.1",
+    "ethereumjs-tx": "^1.3.7",
+    "ethereumjs-util": "^5.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
